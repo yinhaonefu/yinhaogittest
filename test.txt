@@ -4,4 +4,3 @@ zhangsan
 lisi
 mackjson
 wangwu
-zhaoliu
