@@ -4,3 +4,5 @@ welcome
 zhangsan
 lisi
 zhaoliu
+jack
+luce
